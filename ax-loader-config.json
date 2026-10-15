@@ -1,0 +1,25 @@
+{
+  "loader": {
+    "version": "1.0.0",
+    "downloadUrl": "https://your-host.example/downloads/AX%20XITERS%20V1.0.0.exe"
+  },
+  "products": [
+    {
+      "name": "PRISM",
+      "status": "available",
+      "message": ""
+    },
+    {
+      "name": "Aurora waves",
+      "status": "maintenance",
+      "message": "We are applying an update. Please check back soon."
+    }
+  ],
+  "updates": [
+    {
+      "tag": "LOADER",
+      "title": "Simpler updates",
+      "summary": "The loader checks the published manifest and safely installs a newer version."
+    }
+  ]
+}
