@@ -5,18 +5,23 @@
   },
   "products": [
     {
-      "name": "PRISM",
+      "name": "AX XITERS INTERNAL",
       "status": "available",
       "message": ""
     },
     {
-      "name": "PRISM",
+      "name": "AX XITERS SILENT",
       "status": "available",
       "message": ""
     },
     {
-      "name": "Aurora waves",
+      "name": "AX XITERS UID bypass",
       "status": "available",
+      "message": ""
+    },
+    {
+      "name": "AX XITERS LIB BYPASS",
+      "status": "",
       "message": ""
     }
   ],
