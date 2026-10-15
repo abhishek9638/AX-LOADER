@@ -8,7 +8,7 @@
       "name": "PRISM",
       "status": "available",
       "message": ""
-    }, 
+    },
     {
       "name": "PRISM",
       "status": "available",
@@ -16,8 +16,8 @@
     },
     {
       "name": "Aurora waves",
-      "status": "maintenance",
-      "message": "We are applying an update. Please check back soon."
+      "status": "available",
+      "message": ""
     }
   ],
   "updates": [
