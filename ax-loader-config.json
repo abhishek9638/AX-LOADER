@@ -31,15 +31,5 @@
       "title": ".",
       "summary": "."
     },
-    {
-      "tag": "INTERNAL ADDED",
-      "title": "AX XITERS INTERNAL IS NOR FULLY SAFE FOR MAIN ID",
-      "summary": "MAR MOJ"
-    },
-    {
-      "tag": "LOADER",
-      "title": "Simpler updates",
-      "summary": "The loader checks the published manifest and safely installs a newer version."
-    }
   ]
 }
