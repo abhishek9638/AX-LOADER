@@ -1,20 +1,24 @@
 {
   "loader": {
-    "version": "1.0.1",
-    "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITER.exe"
+    "version": "1.0.3",
+    "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITER.exe",
+    "sha256": "6BF3C0E4F6567B39997FE00585BC69527A48D779E74BC5DD428F76C363B3F941"
   },
   "products": [
     {
-      "name": "AX VAULT",
-      "status": "available",
-      "message": ""
-    }
+  "name": "AX VAULT",
+  "exeName": "AX VAULT.exe",
+  "status": "available",
+  "message": "",
+  "downloadUrl": "https://example.com/AX%20VAULT.exe",
+  "sha256": "YAHAN_64_CHARACTER_SHA256_HASH"
+}
   ],
   "updates": [
     {
       "tag": "UPDATED",
-      "title": ".",
-      "summary": "."
+      "title": "AX XITERS 1.0.3",
+      "summary": "Download verification and config health improvements."
     }
   ]
 }
