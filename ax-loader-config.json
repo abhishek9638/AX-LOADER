@@ -5,23 +5,8 @@
   },
   "products": [
     {
-      "name": "AX XITERS INTERNAL",
+      "name": "AX VAULT",
       "status": "available",
-      "message": ""
-    },
-    {
-      "name": "AX XITERS SILENT",
-      "status": "available",
-      "message": ""
-    },
-    {
-      "name": "AX XITERS UID bypass",
-      "status": "available",
-      "message": ""
-    },
-    {
-      "name": "AX XITERS LIB BYPASS",
-      "status": "",
       "message": ""
     },
   ],
