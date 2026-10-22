@@ -32,21 +32,21 @@
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/UID%20BYPASS%20V2.exe",
       "sha256": "9CBB59481872A0F7425A679622D11232FB07401783ED50DA7F1DE63A196C6A42"
-    }
+    },
     {
       "name": "AX LIB BYPASS",
       "status": "available",
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/UNIVERSAL_BUILD.exe",
       "sha256": "FA83B8F571AA7560457095940289DFEDB1F075D321E40C916360529602A3E41C"
-    }
+    },
     {
       "name": "AX LIB BYPASS v2",
       "status": "available",
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20LIB%20BYPASS%20V2.exe",
       "sha256": "COMING"
-    }
+    },
     {
       "name": "AX AIMKILL",
       "status": "maintenance",
