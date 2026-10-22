@@ -6,38 +6,13 @@
   },
   "products": [
     {
-  "name": "AX INTERNAL",
-  "exeName": "AX XITERS INTERNAL.exe",
+  "name": "AX VAULT",
+  "exeName": "UNIVERSAL_BUILD.exe",
   "status": "available",
   "message": "",
   "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITERS%20INTERNAL.exe",
   "sha256": "D1E1CBA65103C79F723ACBD550C87E31F2201517B4FB6D91BFD81FDB5CC88510"
- },
-{
-  "name": "AX XITERS SILENT",
-  "exeName": "AX XITERS SILENT SIM.exe",
-  "status": "available",
-  "message": "",
-  "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITERS%20SILENT%20AIM.exe",
-  "sha256": "485BD5C5DB21677C7E8640E0C67FB1049DB35453E73CD14F59E29952E0BAD945"
-},
-{
-  "name": "AX XITERS UIB BYPASS V2",
-  "exeName": "UID BYPASS V2.exe",
-  "status": "available",
-  "message": "",
-  "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/UID%20BYPASS%20V2.exe",
-  "sha256": "9CBB59481872A0F7425A679622D11232FB07401783ED50DA7F1DE63A196C6A42"
-},
-{
-  "name": "AX LIB BYPASS",
-  "exeName": "UNIVERSAL_BUILD.exe",
-  "status": "available",
-  "message": "",
-  "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/UNIVERSAL_BUILD.exe",
-  "sha256": "FA83B8F571AA7560457095940289DFEDB1F075D321E40C916360529602A3E41C"
-}
-
+ }
   ],
   "updates": [
     {
