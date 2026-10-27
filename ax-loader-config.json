@@ -49,8 +49,10 @@
     },
     {
       "name": "AX AIMKILL",
-      "status": "maintenance",
-      "message": "Temporarily unavailable"
+      "status": "available",
+      "message": "",
+      "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITERS%20AIMKILL.exe",
+      "sha256": "FC50C21A7018C5FF5A148E64D4A46A8922FF16D88C28301BD7904049FC73BFB6"
     }
   ],
   "updates": [
