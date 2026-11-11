@@ -35,7 +35,7 @@
     },
     {
       "name": "AX LIB BYPASS",
-      "status": "available",
+      "status": "maintenance",
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/UNIVERSAL_BUILD.exe",
       "sha256": "FA83B8F571AA7560457095940289DFEDB1F075D321E40C916360529602A3E41C"
