@@ -21,7 +21,7 @@
     },
     {
       "name": "AX XITERS UIB BYPASS",
-      "status": "maintenance",
+      "status": "available",
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/Uid%20Bypass.exe",
       "sha256": "24685D79B8549FDD2AB5C7C75D9A9F09278DDF8EECB1C6E707A139E4F948119E"
