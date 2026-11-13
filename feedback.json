@@ -1,0 +1,34 @@
+{
+  "feedback_channel_url": "https://discord.com/channels/1530885712654630942/1543177091393257472",
+  "default_max_feedback_days": 7,
+  "users": [
+    {
+      "key": "AX-ABHII",
+      "discord_id": "1560257645762445372",
+      "last_feedback_date": "2026-11-13",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Active user who recently submitted feedback - logs in normally"
+    },
+    {
+      "key": "AX-VIP-EXPIRED-USER",
+      "discord_id": "987654321098765432",
+      "last_feedback_date": "2026-11-01",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Feedback older than 7 days - user prompted to submit feedback on Discord"
+    },
+    {
+      "key": "AX-VIP-TERMINATED-USER",
+      "discord_id": "555123456789012345",
+      "last_feedback_date": "2026-11-05",
+      "max_feedback_days": 7,
+      "terminated": true,
+      "terminate_until": "2026-11-20 00:00:00",
+      "terminate_reason": "Your license is terminated until 2026-11-20 00:00:00. Submit genuine feedbacks.",
+      "note": "Temporarily banned until date for submitting fake/troll feedback"
+    }
+  ]
+}
