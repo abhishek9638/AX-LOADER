@@ -38,6 +38,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Created via /license-create by axxiter"
+    },
+    {
+      "key": "AX",
+      "discord_id": "849194934975987724",
+      "last_feedback_date": "2026-11-18",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Auto-enrolled on feedback submission 2026-11-18"
     }
   ]
 }
