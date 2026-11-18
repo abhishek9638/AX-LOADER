@@ -29,6 +29,15 @@
       "terminate_until": "2026-11-20 00:00:00",
       "terminate_reason": "Your license is terminated until 2026-11-20 00:00:00. Submit genuine feedbacks.",
       "note": "Temporarily banned until date for submitting fake/troll feedback"
+    },
+    {
+      "key": "KUNA",
+      "discord_id": "1535165957897592842",
+      "last_feedback_date": "2026-11-18",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
