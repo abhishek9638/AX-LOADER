@@ -1,8 +1,8 @@
 {
   "loader": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20XITER.exe",
-    "sha256": "d572272ecda6223b26f6d304dc2c18110fbf3b06900a637e59bf4ea82db68a83"
+    "sha256": "33d5408bf7b733a33ead6ede3150c29e189eee0bc4a00ebf40a417a0d13474f8"
   },
   "products": [
     {
