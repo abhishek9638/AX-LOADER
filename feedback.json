@@ -5,11 +5,11 @@
     {
       "key": "AX-ABHII",
       "discord_id": "1560257645762445372",
-      "last_feedback_date": "2026-11-13",
+      "last_feedback_date": "2026-11-19",
       "max_feedback_days": 7,
       "terminated": false,
       "terminate_until": "",
-      "note": "Active user who recently submitted feedback - logs in normally"
+      "note": "Created via /license-create by axxiter"
     },
     {
       "key": "AX-VIP-EXPIRED-USER",
