@@ -23,12 +23,11 @@
     {
       "key": "AX-VIP-TERMINATED-USER",
       "discord_id": "555123456789012345",
-      "last_feedback_date": "2026-11-05",
+      "last_feedback_date": "2026-11-20",
       "max_feedback_days": 7,
-      "terminated": true,
-      "terminate_until": "2026-11-20 00:00:00",
-      "terminate_reason": "Your license is terminated until 2026-11-20 00:00:00. Submit genuine feedbacks.",
-      "note": "Temporarily banned until date for submitting fake/troll feedback"
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Auto-restored on 2026-11-20 00:01:52"
     },
     {
       "key": "KUNA",
