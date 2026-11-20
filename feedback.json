@@ -46,6 +46,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Auto-enrolled on feedback submission 2026-11-18"
+    },
+    {
+      "key": "AX-SANU003",
+      "discord_id": "1510502667347169370",
+      "last_feedback_date": "2026-11-20",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
