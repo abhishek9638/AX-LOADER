@@ -64,6 +64,11 @@
   ],
   "updates": [
     {
+      "tag": "PANEL UPDATE",
+      "title": "LIB BYPASS UPDATED",
+      "summary": "LIB BYPASS NOT SAFE WITH PANELS"
+    },
+    {
       "tag": "UPDATE",
       "title": "LIB BYPASS V2 UPDATET",
       "summary": "."
