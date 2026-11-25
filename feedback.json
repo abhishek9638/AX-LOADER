@@ -55,6 +55,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Created via /license-create by axxiter"
+    },
+    {
+      "key": "AX-HB0069",
+      "discord_id": "1335929345994133574",
+      "last_feedback_date": "2026-11-25",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
