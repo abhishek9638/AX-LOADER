@@ -73,6 +73,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Auto-enrolled on feedback submission 2026-11-25"
+    },
+    {
+      "key": "AX-ABIR",
+      "discord_id": "1380218177190887424",
+      "last_feedback_date": "2026-11-26",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
