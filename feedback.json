@@ -82,6 +82,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Created via /license-create by axxiter"
+    },
+    {
+      "key": "AX-RAHIM",
+      "discord_id": "1515570372014247940",
+      "last_feedback_date": "2026-11-26",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
