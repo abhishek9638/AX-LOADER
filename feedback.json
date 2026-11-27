@@ -91,6 +91,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Created via /license-create by axxiter"
+    },
+    {
+      "key": "PROABHI",
+      "discord_id": "1482627299395371269",
+      "last_feedback_date": "2026-11-27",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Auto-enrolled on feedback submission 2026-11-27"
     }
   ]
 }
