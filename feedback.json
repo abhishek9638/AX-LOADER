@@ -100,6 +100,15 @@
       "terminated": false,
       "terminate_until": "",
       "note": "Auto-enrolled on feedback submission 2026-11-27"
+    },
+    {
+      "key": "AX-UR-ANSHUL",
+      "discord_id": "1372443677565128735",
+      "last_feedback_date": "2026-11-27",
+      "max_feedback_days": 7,
+      "terminated": false,
+      "terminate_until": "",
+      "note": "Created via /license-create by axxiter"
     }
   ]
 }
