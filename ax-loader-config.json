@@ -60,6 +60,20 @@
       "message": "",
       "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20OPTIMIZER.exe",
       "sha256": "0e43a0a364833affd13cec2c6ecad404dbdd40ed9b3afe8e2915352e51163dea"
+    },
+    {
+      "name": "AX AIMKILL PVT",
+      "status": "available",
+      "message": "",
+      "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20AIMKILL%20PVT.exe",
+      "sha256": "0e43a0a364833affd13cec2c6ecad404dbdd40ed9b3afe8e2915352e51163dea"
+    },
+    {
+      "name": "AX XITERS SILENT KILL",
+      "status": "available",
+      "message": "",
+      "downloadUrl": "https://github.com/abhishek9638/AX-LOADER/raw/refs/heads/main/AX%20SILENT%20KILL.exe",
+      "sha256": "0e43a0a364833affd13cec2c6ecad404dbdd40ed9b3afe8e2915352e51163dea"
     }
   ],
   "updates": [
